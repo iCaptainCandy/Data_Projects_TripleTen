@@ -53,7 +53,7 @@ Using spreadsheet-based data analysis techniques such as pivot tables, IF statem
 
 ## 📎 Files Included
 
-- `SPRINT 1 PROJECT - JAYMESON METZ.xlsx` – Final spreadsheet submission with all calculations, charts, and documentation
+- [`SPRINT 1 PROJECT - JAYMESON METZ.xlsx` ](https://docs.google.com/spreadsheets/d/1r3ChqTiAV0kQqToB-l_EEVG_7qDgD34-dkNF3C0Rwrk/edit?usp=sharing) – Final spreadsheet submission with all calculations, charts, and documentation
 
 ---
 
