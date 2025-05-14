@@ -59,8 +59,20 @@ Using spreadsheet-based data analysis techniques such as pivot tables, IF statem
 
 ## ✅ Review Outcome
 
-> _“Your project is easy to read, you brilliantly added calculations and precisely answered all the questions. Excellent job!”_  
-> — TripleTen Reviewer
+> _“Hello, Jaymeson!  
+> Your project is easy to read, you brilliantly added calculations and precisely answered all the questions.  
+> You did an excellent job in this project!  
+> Excel (as Google spreadsheets) can be tedious, but it is a powerful tool.  
+> There are no issues that need to be fixed, so I can accept the project now. Awesome job!  
+> Thank you for your work and I wish you success in your next projects! 😊”_  
+> — **Dmitry Mikhalenko, Reviewer**
+
+---
+
+## 🎓 Optional Resource
+
+> _“I can recommend you one source so that you can better understand the power pivot in Excel:”_  
+> ▶️ [YouTube – Power Pivot Explained](https://www.youtube.com/watch?v=rB_IiYbOo7w)
 
 ---
 
