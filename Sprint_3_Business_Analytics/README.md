@@ -81,7 +81,7 @@ My objective was to:
 
 ## 📎 Project File
 
-📄 [View Final Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1vIcHrRRT171h68s4nufXufT53Dg1lMcy9Tice6E_oos/edit?usp=sharing)
+📄 [View Final Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1gLNlCrQdKI4J_BjcwUS30OQODpwKbSp07Vg3X9bTAk8/edit?usp=sharing)
 
 ---
 
