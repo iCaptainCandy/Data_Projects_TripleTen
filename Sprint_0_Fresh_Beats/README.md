@@ -60,7 +60,7 @@ Run genre-specific promotions (e.g., rock playlists with trial offers) to conver
 
 The final report was delivered as a Google Doc in stakeholder-facing format, using TripleTen’s professional report template.
 
-📄 [View Report (PDF Version)](./Jaymeson%20Metz%20-%20Project%20Status%20Report.pdf)
+📄 [View Report (PDF Version)]([./Jaymeson%20Metz%20-%20Project%20Status%20Report.pdf](https://drive.google.com/file/d/1_B-QpD9CjprFANR0EF9jH7GLnWAO7wv1/view?usp=sharing))
 
 ---
 
