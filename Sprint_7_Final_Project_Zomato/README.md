@@ -63,16 +63,6 @@ The objective was to explore and segment Zomato’s user base, understand behavi
 
 ---
 
-## 🧷 Files for GitHub
-
-/Sprint_7_Final_Project_Zomato/
-├── README.md
-├── research_plan.pdf
-├── dashboard_mockup.jpg or .fig
-└── (future) final_dashboard.pbix or presentation.pdf
-
----
-
 ## 🚀 Next Steps
 
 - Build and polish the interactive dashboard in Power BI  
