@@ -10,7 +10,7 @@
 
 ## 🧠 Project Overview
 
-As part of my onboarding assignment at Zomato, I was tasked with conducting a **Business Intelligence analysis** using internal datasets. I selected **Customer Analysis** as my focus area.
+As part of my onboarding assignment at Zomato, I was tasked with conducting a **Business Intelligence analysis** using internal datasets. I selected **Restaurant Analysis** as my focus area.
 
 The objective was to explore and segment Zomato’s user base, understand behavioral trends, and generate actionable insights through a research-backed dashboard and structured visual presentation.
 
@@ -23,6 +23,8 @@ The objective was to explore and segment Zomato’s user base, understand behavi
 - `restaurant` — metadata about restaurants on the platform  
 - `menu` — items offered by each restaurant  
 - `food` — additional food-level details
+
+View cleaned data used for visualizations: https://docs.google.com/spreadsheets/d/1aW0RaXUlRA9nePUgvcTIYWWyf94BmwUSIUGhspwdNIw/edit?usp=sharing
 
 ---
 
