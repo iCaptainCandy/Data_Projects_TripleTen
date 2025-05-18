@@ -6,6 +6,9 @@
 **Focus Area:** Customer Segmentation & Behavior  
 **Tools Used:** Power BI, Excel, Figma (for dashboard mockup)
 
+🔗 [View Dashboard on Tableau Public]([https://public.tableau.com/app/profile/jaymeson.metz/viz/METZ_SPRINT_4_PROJECT/Profitcenterandlosses](https://public.tableau.com/views/ZOMATO_17471119541800/SalesTrendsDashboardKeyInsightsfromTopRestaurants?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+
 ---
 
 ## 🧠 Project Overview
