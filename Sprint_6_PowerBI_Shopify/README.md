@@ -86,16 +86,3 @@ The project is structured into **three main sections**, each reflected in its ow
 - Multi-page report structuring for storytelling  
 
 ---
-
-## 📁 GitHub Folder Structure
-
-/Sprint_6_PowerBI_Shopify/
-├── README.md
-├── 1.1 - UNIQUE APPS KPI CARD.jpeg
-├── 1.2 - REVIEWS OVER TIME.jpeg
-├── 1.3 - REVIEWS COUNT VS. RATING.jpeg
-├── 2.1 – HELPFUL REVIEWS KPI CARD.jpeg
-├── 2.2 - DEV ANSWERED VS. AVG RATING.jpeg
-├── 3.1 - RATINGS BY DEVELOPER.jpeg
-├── 3.2 - AVG HELPFUL REVIEW SCORE BY DEVELOPER.jpeg
-└── 3.3 - DEVELOPER RESPONSIVENESS.jpeg
