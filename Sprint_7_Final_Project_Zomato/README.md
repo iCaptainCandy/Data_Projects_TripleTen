@@ -7,7 +7,8 @@
 **Tools Used:** Power BI, Excel, Figma (for dashboard mockup)
 
 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/ZOMATO_17471119541800/SalesTrendsDashboardKeyInsightsfromTopRestaurants?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-🔗 [View cleaned data used for visualizations](https://public.tableau.com/views/ZOMATO_17471119541800/SalesTrendsDashboardKeyInsightsfromTopRestaurants?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://docs.google.com/spreadsheets/d/1aW0RaXUlRA9nePUgvcTIYWWyf94BmwUSIUGhspwdNIw/edit?usp=sharing)
+
+🔗 [View cleaned data used for visualizations](https://docs.google.com/spreadsheets/d/1aW0RaXUlRA9nePUgvcTIYWWyf94BmwUSIUGhspwdNIw/edit?usp=sharing)
 
 
 ---
